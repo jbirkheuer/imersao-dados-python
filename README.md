@@ -4,6 +4,9 @@ Projeto desenvolvido durante a imersão da Alura para criar um dashboard interat
 ## *Descrição*
 Este projeto apresenta um dashboard interativo feito com Streamlit que permite explorar dados salariais em diferentes cargos, tipos de contratos, senioridades e tamanhos de empresas. Utiliza filtros para refinar as análises e apresenta métricas, gráficos e uma tabela detalhada para facilitar a compreensão das informações.
 
+## *Objetivo*
+O objetivo deste projeto é criar uma ferramenta interativa para explorar e analisar os salários na área de dados ao longo dos anos, possibilitando a filtragem por diversos critérios e apresentando as informações de forma visual.
+
 ## *Funcionalidades atuais*
 - Filtros interativos por ano, senioridade, tipo de contrato e tamanho da empresa
 - Visualização de métricas principais (salário médio, máximo, total de registros e cargo mais frequente)
@@ -36,6 +39,9 @@ Acesse o dashboard online no link:
 - Melhorar a responsividade para dispositivos móveis  
 - Adicionar gráficos comparativos entre anos e senioridades  
 - Otimizar performance para grandes volumes de dados  
+
+## *O que aprendi?*
+Durante o desenvolvimento deste projeto, aprendi a utilizar o Streamlit para criar dashboards interativos de maneira rápida e eficiente. Também aprofundei meus conhecimentos em análise de dados com Pandas e visualização com Plotly Express, além de entender como criar uma experiência interativa e de fácil utilização para o usuário.
 
 ## *Contribuições*
 Contribuições são bem-vindas! Abra issues ou envie pull requests para ajudar a melhorar o projeto.
